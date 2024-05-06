@@ -12,7 +12,7 @@ Au bout d'un certain temps sans manger les philosophes meurent de faim. Le but d
 
 * Les spaghettis ne peuvent être mangés qu'avec 2 fourchettes
 * Il y a autant de fourchettes que de philosophes
-* Chaque philosophe mange, do rt et réfléchit successivement
+* Chaque philosophe mange, dort et réfléchit successivement
 * Si un philosophe n'a pas mangé pendant un certain temps il mourra de faim
 * Les philosophes ne peuvent pas communiquer entre eux
   
